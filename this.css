@@ -1,0 +1,22 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+.lotus {
+    background-color: lightseagreen;
+}
+
+.tendo { 
+    color: blue;
+    background-color: none;
+}
+
+#ten { 
+    background-color: red;
+    color: blue;
+}
